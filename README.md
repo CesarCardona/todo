@@ -1,6 +1,6 @@
 # Webpack Starter
 
-Proyecto inciial todo
+Proyecto inicial todo
 
 ### Notas:
 Recuerden reconstruir los módulos de node 
