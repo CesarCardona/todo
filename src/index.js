@@ -1,7 +1,6 @@
 // Esto me permite importar módulos o funciones de otros archivos para usarlas en este archivo
 import './styles.css';
-import html from "./index.html";
-import { Todo, TodoList } from './classes';
+import {TodoList } from './classes';
 import {crearTodoHtml} from './js/componentes.js';
 
 export const todoList = new TodoList(); // Creo instancia de la clase TodoList

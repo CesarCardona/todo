@@ -45,7 +45,7 @@ export class TodoList {
         //     this.todos = [0];
         // }
 
-        this.todos = localStorage.getItem('todo') ? JSON.parse(localStorage.getItem('todo')) : [0];
+        this.todos = localStorage.getItem('todo') ? JSON.parse(localStorage.getItem('todo')) : [];
         this.todos = this.todos.map(Todo.fromJson);
     }
 }

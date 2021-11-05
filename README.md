@@ -1,6 +1,6 @@
 # Webpack Starter
 
-Configuración inicial para proyectos que utilicen webpack
+Proyecto inciial todo
 
 ### Notas:
 Recuerden reconstruir los módulos de node 
